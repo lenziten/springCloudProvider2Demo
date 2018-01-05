@@ -3,10 +3,10 @@
   <modelVersion>4.0.0</modelVersion>
   
   <groupId>com.demo</groupId>
-  <artifactId>springBootProviderDemo</artifactId>
+  <artifactId>springBootProvider2Demo</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   
-  <name>springBootProviderDemo Maven Webapp</name>
+  <name>springBootProvider2Demo Maven Webapp</name>
   <url>http://maven.apache.org</url>
   
   <properties>
@@ -115,7 +115,7 @@
 	</dependencyManagement>
   
   <build>
-    <finalName>springBootProviderDemo</finalName>
+    <finalName>springBootProvider2Demo</finalName>
          <resources>
         	<resource>
         		<directory>src/main/java</directory>
